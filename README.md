@@ -1,0 +1,1 @@
+# task-for-the-candidate.sql
